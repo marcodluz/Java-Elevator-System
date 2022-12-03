@@ -1,3 +1,5 @@
+package app;
+
 import java.util.Arrays;
 
 public class ElevatorCall

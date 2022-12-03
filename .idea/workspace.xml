@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="New Branch Test">
-      <change afterPath="$PROJECT_DIR$/src/Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElevatorCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/FileReaderCSVTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/LogWriterTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/FileReaderCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/LogWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testing/FileReaderCSVTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testing/LogWriterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElevatorCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ElevatorCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +36,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,27 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\GitHub\Elevator System\src" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Elevator System" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
+  <component name="RunManager" selected="Application.LogWriterTest">
+    <list>
+      <item itemvalue="Application.FileReaderCSVTest" />
+      <item itemvalue="Application.LogWriterTest" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
