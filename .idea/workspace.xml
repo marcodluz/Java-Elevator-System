@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="New Branch Test">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/FileReaderCSVTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/LogWriterTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/FileReaderCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/LogWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testing/FileReaderCSVTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testing/LogWriterTest.java" afterDir="false" />
+    <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)">
+      <change afterPath="$PROJECT_DIR$/src/testing/ElevatorCallTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Elevator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ElevatorCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ElevatorCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/ElevatorCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ElevatorCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +56,25 @@
       <recent name="D:\Documents\GitHub\Elevator System\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LogWriterTest">
+  <component name="RunManager" selected="Application.ElevatorCallTest">
+    <configuration name="ElevatorCallTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="testing.ElevatorCallTest" />
+      <module name="Elevator System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="Elevator System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.FileReaderCSVTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ElevatorCallTest" />
       <item itemvalue="Application.LogWriterTest" />
     </list>
   </component>
@@ -87,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669492168501</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)">
+      <created>1670031020397</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670031020398</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Branch Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Branch Test" />
+    <MESSAGE value="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)" />
   </component>
 </project>
