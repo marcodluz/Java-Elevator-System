@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)">
-      <change afterPath="$PROJECT_DIR$/src/testing/ElevatorCallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/ElevatorCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ElevatorCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="+ ElevatorCall created&#10;+ ElevatorCallTest created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,21 +51,7 @@
       <recent name="D:\Documents\GitHub\Elevator System\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElevatorCallTest">
-    <configuration name="ElevatorCallTest" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="testing.ElevatorCallTest" />
-      <module name="Elevator System" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="app.Main" />
-      <module name="Elevator System" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <list>
       <item itemvalue="Application.FileReaderCSVTest" />
       <item itemvalue="Application.Main" />
@@ -101,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670031020398</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="+ ElevatorCall created&#10;+ ElevatorCallTest created">
+      <created>1670069399957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670069399957</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Branch Test" />
     <MESSAGE value="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)" />
+    <MESSAGE value="+ ElevatorCall created&#10;+ ElevatorCallTest created" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ ElevatorCall created&#10;+ ElevatorCallTest created" />
   </component>
 </project>
