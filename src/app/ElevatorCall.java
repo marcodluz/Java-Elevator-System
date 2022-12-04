@@ -9,12 +9,15 @@ public class ElevatorCall
     private int currentFloor;
     private int direction;
     private List<Integer> destinations = new ArrayList<>();
+    private String file;
 
-    public ElevatorCall() {
-
+    public ElevatorCall(String file) {
+        this.file = file;
     }
 
-    public void getNextFileCall(String file) {
+    public void getNextFileCall() {
+
+        destinations.clear();
 
         FileReaderCSV fileReaderCSV = new FileReaderCSV(file);
         fileReaderCSV.readFile();

@@ -19,8 +19,8 @@ public class ElevatorCallTest {
 
     public static void testNextFileCall() {
 
-        ElevatorCall elevatorCall = new ElevatorCall();
-        elevatorCall.getNextFileCall(file);
+        ElevatorCall elevatorCall = new ElevatorCall(file);
+        elevatorCall.getNextFileCall();
         System.out.println("Current floor: " + elevatorCall.getCurrentFloor());
         System.out.println("Direction: " + elevatorCall.getDirection());
 

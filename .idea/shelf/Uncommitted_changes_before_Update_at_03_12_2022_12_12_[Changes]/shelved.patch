@@ -1,0 +1,88 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4\" name=\"Changes\" comment=\"+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/testing/ElevatorCallTest.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/app/ElevatorCall.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/app/ElevatorCall.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/app/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/app/Main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubProjectSettings\">\r\n    <option name=\"branchProtectionPatterns\">\r\n      <list>\r\n        <option value=\"master\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2GMDwlxDz06UyhIha2tJ8upikml\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Documents\\GitHub\\Elevator System\\src\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.ElevatorCallTest\">\r\n    <configuration name=\"ElevatorCallTest\" type=\"Application\" factoryName=\"Application\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"testing.ElevatorCallTest\" />\r\n      <module name=\"Elevator System\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"app.Main\" />\r\n      <module name=\"Elevator System\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.FileReaderCSVTest\" />\r\n      <item itemvalue=\"Application.Main\" />\r\n      <item itemvalue=\"Application.ElevatorCallTest\" />\r\n      <item itemvalue=\"Application.LogWriterTest\" />\r\n    </list>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4\" name=\"Changes\" comment=\"\" />\r\n      <created>1666189801667</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1666189801667</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"New Branch Test\">\r\n      <created>1669492168501</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669492168501</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)\">\r\n      <created>1670031020397</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1670031020398</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"New Branch Test\" />\r\n    <MESSAGE value=\"+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 957abbe91367b294bbbdfd7792c6ff5eee296508)
++++ b/.idea/workspace.xml	(date 1670069422012)
+@@ -1,11 +1,20 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)">
+-      <change afterPath="$PROJECT_DIR$/src/testing/ElevatorCallTest.java" afterDir="false" />
++    <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="New Branch Test">
++      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/FileReaderCSVTest.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/LogWriterTest.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/app/FileReaderCSV.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/app/LogWriter.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/testing/FileReaderCSVTest.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/testing/LogWriterTest.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/app/ElevatorCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ElevatorCall.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Elevator.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/ElevatorCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ElevatorCall.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/FileReader.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/FileWriter.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -56,25 +65,9 @@
+       <recent name="D:\Documents\GitHub\Elevator System\src" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.ElevatorCallTest">
+-    <configuration name="ElevatorCallTest" type="Application" factoryName="Application">
+-      <option name="MAIN_CLASS_NAME" value="testing.ElevatorCallTest" />
+-      <module name="Elevator System" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="Main" type="Application" factoryName="Application">
+-      <option name="MAIN_CLASS_NAME" value="app.Main" />
+-      <module name="Elevator System" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
++  <component name="RunManager" selected="Application.LogWriterTest">
+     <list>
+       <item itemvalue="Application.FileReaderCSVTest" />
+-      <item itemvalue="Application.Main" />
+-      <item itemvalue="Application.ElevatorCallTest" />
+       <item itemvalue="Application.LogWriterTest" />
+     </list>
+   </component>
+@@ -94,14 +87,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1669492168501</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)">
+-      <created>1670031020397</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1670031020398</updated>
+-    </task>
+-    <option name="localTasksCounter" value="3" />
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -123,7 +109,6 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="New Branch Test" />
+-    <MESSAGE value="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)" />
+-    <option name="LAST_COMMIT_MESSAGE" value="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)" />
++    <option name="LAST_COMMIT_MESSAGE" value="New Branch Test" />
+   </component>
+ </project>
+\ No newline at end of file
