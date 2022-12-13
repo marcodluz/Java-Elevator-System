@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)">
-      <change afterPath="$PROJECT_DIR$/src/app/SimpleAlgorithm.java" afterDir="false" />
+    <list default="true" id="cd7f8cf6-10bd-4008-8fd7-1f00ddcffce4" name="Changes" comment="Files with the list of calls">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_12_2022_12_10_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_12_2022_12_10__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_12_2022_12_12_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_12_2022_12_12__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Elevator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/ElevatorCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ElevatorCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/FileReaderCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/FileReaderCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/LogWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/LogWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db/Calculations.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/Calculations.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testing/ElevatorCallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testing/ElevatorCallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/SimpleAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/SimpleAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/Calculations.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/CallList3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/CallList3.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +36,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
@@ -47,6 +61,9 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -98,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670031020398</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Files with the list of calls">
+      <created>1670149199581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670149199581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Branch Test" />
     <MESSAGE value="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Packages organizations&#10;+ File reader and test file (reads the file in &quot;src/db/CallList1.csv&quot;)&#10;+ Log writer and test file (creates a file in &quot;src/db/Calculations.log&quot;)" />
+    <MESSAGE value="Files with the list of calls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files with the list of calls" />
   </component>
 </project>

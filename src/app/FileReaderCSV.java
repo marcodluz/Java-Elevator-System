@@ -26,7 +26,6 @@ public class FileReaderCSV extends Reader {
                 List<String> values = Arrays.asList(line.split(delimiter));
                 lines.add(values);
             }
-            //lines.forEach(l -> System.out.println(l));
         } catch (Exception e) {
             System.out.println(e);
         }

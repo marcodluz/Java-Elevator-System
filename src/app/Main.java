@@ -7,8 +7,14 @@ public class Main
         FileReaderCSV fileReaderCSV = new FileReaderCSV("src/db/CallList1.csv");
         fileReaderCSV.readFile();
 
-        // Call algorithms
+        // Call algorithm
         SimpleAlgorithm simpleAlgorithm = new SimpleAlgorithm();
-        simpleAlgorithm.start();
+
+
+        // Please call each one at the time //
+
+        simpleAlgorithm.start("src/db/CallList1.csv");
+        //simpleAlgorithm.start("src/db/CallList2.csv");
+        //simpleAlgorithm.start("src/db/CallList3.csv");
     }
 }

@@ -13,14 +13,14 @@ public class LogWriter {
 
         try {
 
-            // This block configure the logger with handler and formatter
-            fh = new FileHandler("src/db/Calculations.log");
+            // Define the Results log file
+            fh = new FileHandler("src/db/Results.log", true);
             logger.addHandler(fh);
             SimpleFormatter formatter = new SimpleFormatter();
             fh.setFormatter(formatter);
             logger.setUseParentHandlers(false);
 
-            // the following statement is used to log any messages
+            // Log any message
             logger.info(log);
 
         } catch (SecurityException e) {
